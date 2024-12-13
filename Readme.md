@@ -6,7 +6,7 @@ This repository explores performance trends in the UEFA Champions League, focusi
 Analyze Champions League data to uncover patterns in team performance and provide actionable insights for improving success rates, particularly for away matches.
 
 ## Summary:
-Winning away in the Champions League is a formidable challenge, but data reveals that successful teams often follow a balanced strategy of strong defense and efficient offense. Away teams that scored one or two goal won 61% of the time, and those conceding one or fewer goals had a remarkable 90% win rate. Teams with a solid defense, minimizing goals conceded in hostile environments, are far more likely to secure victories on the road. For teams aiming to improve away performance, focusing on defensive resilience and clinical finishing is essential.
+Winning away in the Champions League is a formidable challenge, but data reveals that successful teams often follow a balanced strategy of strong defense and efficient offense. Away teams that won their games scored one or two goals 61% of the time and conceded one or fewer goals 90% of the time. Teams with a solid defense, minimizing goals conceded in hostile environments, are far more likely to secure victories on the road. For teams aiming to improve away performance, focusing on defensive resilience and clinical finishing is essential.
 
 ## Key Insights
 
@@ -46,8 +46,8 @@ Winning away matches is often considered one of the toughest challenges in compe
    <img src="images\away_goals.png" alt="" width=400>
 
 3. **Key Metrics**  
-   - Teams that conceded **one or fewer goals** achieved a remarkable **90% win rate**.
-   - Away teams that scored **one or two goals** won **61% of the time**.
+   - A remarkable 90% of the away-winning teams conceded just **one or fewer goals**.
+   - **61% of the time** away-winning teams scored only **one or two goals**.
 
 **Key Takeaway**: To succeed in away games:  
 - **Score at least one goal** to stay competitive.  
