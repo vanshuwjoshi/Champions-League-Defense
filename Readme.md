@@ -55,6 +55,7 @@ Winning away matches is often considered one of the toughest challenges in compe
 
 Winning away isn’t just about talent—it’s about mastering the balance between offense and defense.  
 
+To have a look at the detailed analysis, check out the [data-viz.ipynb](https://github.com/vanshuwjoshi/Champions-League-Defense/blob/main/data-viz.ipynb)
 
 ## Conclusion
 This analysis underscores the importance of home-field advantage, the dominance of top-performing teams, and the strategic balance required for success in away matches. Dive into the repository for detailed visualizations and insights!
